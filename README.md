@@ -4,7 +4,7 @@
 
 The data needed for replication are contained in “dataSTATA\policy_shocks_ajae.dta” 
 
-<i>Note: All RIN price data have been removed from this file.  RIN prices were purchased from OPIS, and we are unable to share this data.</i>
+<i>Note: All RIN price data have been removed. The data are available to purchase from the [Oil Price Information Service](https://www.opisnet.com/). </i>
 
 **Replication Instructions:**
 
