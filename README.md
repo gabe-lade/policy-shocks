@@ -2,8 +2,8 @@
 ## American Journal of Agricultural Economics
 ### Gabriel E. Lade (glade@macalester.edu), C.-Y. Cynthia Lin Lawell (clinlawell@cornell.edu), and Aaron Smith (adsmith@ucdavis.edu)
 
-####Overview
 The data needed for replication are contained in “dataSTATA\policy_shocks_ajae.dta” 
+
 <i>Note: All RIN price data have been removed from this file.  RIN prices were purchased from OPIS, and we are unable to share this data.</i>
 
 **Replication Instructions:**
